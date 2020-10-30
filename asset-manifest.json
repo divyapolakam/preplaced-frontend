@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/preplaced-frontend/static/css/main.9893b05c.chunk.css",
+    "main.js": "/preplaced-frontend/static/js/main.a7b64755.chunk.js",
+    "main.js.map": "/preplaced-frontend/static/js/main.a7b64755.chunk.js.map",
+    "runtime-main.js": "/preplaced-frontend/static/js/runtime-main.6112100a.js",
+    "runtime-main.js.map": "/preplaced-frontend/static/js/runtime-main.6112100a.js.map",
+    "static/js/2.646cd0b7.chunk.js": "/preplaced-frontend/static/js/2.646cd0b7.chunk.js",
+    "static/js/2.646cd0b7.chunk.js.map": "/preplaced-frontend/static/js/2.646cd0b7.chunk.js.map",
+    "static/js/3.8c15d300.chunk.js": "/preplaced-frontend/static/js/3.8c15d300.chunk.js",
+    "static/js/3.8c15d300.chunk.js.map": "/preplaced-frontend/static/js/3.8c15d300.chunk.js.map",
+    "index.html": "/preplaced-frontend/index.html",
+    "static/css/main.9893b05c.chunk.css.map": "/preplaced-frontend/static/css/main.9893b05c.chunk.css.map",
+    "static/js/2.646cd0b7.chunk.js.LICENSE.txt": "/preplaced-frontend/static/js/2.646cd0b7.chunk.js.LICENSE.txt",
+    "static/media/mailchimp.1f9ffa7b.jpeg": "/preplaced-frontend/static/media/mailchimp.1f9ffa7b.jpeg",
+    "static/media/wordpress.bb6b480a.jpeg": "/preplaced-frontend/static/media/wordpress.bb6b480a.jpeg",
+    "static/media/zendesk.a64fc281.jpeg": "/preplaced-frontend/static/media/zendesk.a64fc281.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6112100a.js",
+    "static/js/2.646cd0b7.chunk.js",
+    "static/css/main.9893b05c.chunk.css",
+    "static/js/main.a7b64755.chunk.js"
+  ]
+}
